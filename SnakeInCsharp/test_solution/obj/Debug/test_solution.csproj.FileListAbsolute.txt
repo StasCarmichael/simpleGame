@@ -1,0 +1,6 @@
+C:\Users\stask\source\С#\SnakeInCsharp\test_solution\bin\Debug\test_solution.exe.config
+C:\Users\stask\source\С#\SnakeInCsharp\test_solution\bin\Debug\test_solution.exe
+C:\Users\stask\source\С#\SnakeInCsharp\test_solution\bin\Debug\test_solution.pdb
+C:\Users\stask\source\С#\SnakeInCsharp\test_solution\obj\Debug\test_solution.csproj.CoreCompileInputs.cache
+C:\Users\stask\source\С#\SnakeInCsharp\test_solution\obj\Debug\test_solution.exe
+C:\Users\stask\source\С#\SnakeInCsharp\test_solution\obj\Debug\test_solution.pdb
